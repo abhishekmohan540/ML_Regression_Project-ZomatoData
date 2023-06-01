@@ -2,5 +2,6 @@ pandas
 numpy
 seaborn
 Flask
+scikit-learn
 
 -e .     # used to trigger setup.py
